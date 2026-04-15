@@ -1,3 +1,6 @@
+-- Open in the terminal
+$ sqlite3 fantasy_data.db
+
 CREATE TABLE player (
     player_id         INTEGER NOT NULL,
     gsis_id           VARCHAR,
